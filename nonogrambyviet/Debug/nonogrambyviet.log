@@ -1,2 +1,9 @@
 ﻿  nonogrambyviet.cpp
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(564,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(573,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(705,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(705,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(841,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(1109,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\nonogrambyviet\nonogrambyviet\nonogrambyviet.cpp(1118,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   nonogrambyviet.vcxproj -> C:\Users\ADMIN\Desktop\nonogrambyviet\Debug\nonogrambyviet.exe

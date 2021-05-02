@@ -9,7 +9,7 @@ using namespace std;
 //**************************************************************
 const int SCREEN_WIDTH = 1600;
 const int SCREEN_HEIGHT = 800;
-const string WINDOW_TITLE = "NONOGRAM by HOANGVIET";
+const string WINDOW_TITLE = "    NONOGRAM by HOANGVIET";
 
 void logSDLError(std::ostream& os,
     const std::string& msg, bool fatal = false);
